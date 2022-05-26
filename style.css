@@ -194,12 +194,16 @@ h1 span{
     }
 
     .filters span{
-       font-size: 14px;
+       font-size: 13px;
     }
 
     .task-input .userinput{
         font-size: 14px;
         margin-right: 10px;
+    }
+
+    .controls .clear-btn{
+        font-size: 13px;
     }
 
     .new-task-submit{
